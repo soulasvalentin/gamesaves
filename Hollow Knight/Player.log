@@ -1,0 +1,549 @@
+Mono path[0] = 'C:/Program Files (x86)/DODI-Repacks/Hollow Knight/hollow_knight_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/DODI-Repacks/Hollow Knight/MonoBleedingEdge/etc'
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/DODI-Repacks/Hollow Knight/hollow_knight_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 SUPER (ID=0x1e81)
+    Vendor:   
+    VRAM:     8001 MB
+    Driver:   31.0.15.3623
+Begin MonoManager ReloadAssembly
+- Completed reload, in  2.346 seconds
+OnLevelWasLoaded was found on GameMap
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on PlayMakerUnity2d
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.696800 ms
+Graphics tier changed to High
+
+Steam initializing
+
+Steam logged in as CODEX
+
+Selected online subsystem SteamOnlineSubsystem
+
+Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Loaded saved language code 'EN'
+
+Restored language code 'EN'
+
+
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 3814.
+Total: 1.185700 ms (FindLiveObjects: 0.168500 ms CreateObjectMapping: 0.140100 ms MarkObjects: 0.859500 ms  DeleteObjects: 0.017300 ms)
+
+Steam stats received.
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Joystick connected ("Controller (XBOX 360 For Windows)").
+
+Didn't need to wait for PlayerPrefs load.
+
+UnloadTime: 2.855700 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Failed to retrieve achievement state for ENDING_A
+
+Failed to retrieve achievement state for ENDING_B
+
+Failed to retrieve achievement state for ENDING_C
+
+Failed to retrieve achievement state for STEELSOUL
+
+Game controller set to None.
+
+Controller Type: Unknown
+
+Unable to match controller of name (None), will attempt default mapping set.
+
+Active Gamepad Type: XBOX_360
+
+Game controller set to None.
+
+Failed to retrieve achievement state for PROTECTED
+
+Failed to retrieve achievement state for MASKED
+
+Failed to retrieve achievement state for ENCHANTED
+
+Failed to retrieve achievement state for BLESSED
+
+Failed to retrieve achievement state for SOULFUL
+
+Failed to retrieve achievement state for WORLDSOUL
+
+Failed to retrieve achievement state for DREAM_FK
+
+Failed to retrieve achievement state for HORNET_2
+
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+
+Failed to retrieve achievement state for DREAM_SOUL_MASTER_DEFEAT
+
+Failed to retrieve achievement state for BROKEN_VESSEL
+
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+
+Failed to retrieve achievement state for DUNG_DEFENDER
+
+Failed to retrieve achievement state for MANTIS_LORDS
+
+Failed to retrieve achievement state for COLLECTOR
+
+Failed to retrieve achievement state for ZOTE
+
+Failed to retrieve achievement state for NEGLECT
+
+Failed to retrieve achievement state for ATTUNEMENT
+
+Failed to retrieve achievement state for AWAKENING
+
+Failed to retrieve achievement state for ASCENSION
+
+Failed to retrieve achievement state for GRUBFRIEND
+
+Failed to retrieve achievement state for METAMORPHOSIS
+
+Failed to retrieve achievement state for NAILSMITH_KILL
+
+Failed to retrieve achievement state for NAILSMITH_SPARE
+
+Failed to retrieve achievement state for QUIRREL_EPILOGUE
+
+Failed to retrieve achievement state for MOURNER
+
+Failed to retrieve achievement state for TRAITOR_LORD
+
+Failed to retrieve achievement state for STAG_STATION_HALF
+
+Failed to retrieve achievement state for STAG_STATION_ALL
+
+Failed to retrieve achievement state for TEACHER
+
+Failed to retrieve achievement state for WATCHER
+
+Failed to retrieve achievement state for BEAST
+
+Failed to retrieve achievement state for MAP
+
+Failed to retrieve achievement state for COLOSSEUM_1
+
+Failed to retrieve achievement state for COLOSSEUM_2
+
+Failed to retrieve achievement state for COLOSSEUM_3
+
+Failed to retrieve achievement state for ENDING_A
+
+Failed to retrieve achievement state for ENDING_B
+
+Failed to retrieve achievement state for ENDING_C
+
+Failed to retrieve achievement state for VOID
+
+Failed to retrieve achievement state for SPEEDRUN_1
+
+Failed to retrieve achievement state for SPEEDRUN_2
+
+Failed to retrieve achievement state for COMPLETION
+
+Failed to retrieve achievement state for SPEED_COMPLETION
+
+Failed to retrieve achievement state for STEELSOUL
+
+Failed to retrieve achievement state for STEELSOUL_COMPLETION
+
+Failed to retrieve achievement state for HUNTER_1
+
+Failed to retrieve achievement state for HUNTER_2
+
+Failed to retrieve achievement state for MR_MUSHROOM
+
+Failed to retrieve achievement state for WHITE_DEFENDER
+
+Failed to retrieve achievement state for GREY_PRINCE
+
+Failed to retrieve achievement state for GRIMM
+
+Failed to retrieve achievement state for NIGHTMARE_GRIMM
+
+Failed to retrieve achievement state for BANISHMENT
+
+Failed to retrieve achievement state for PANTHEON1
+
+Failed to retrieve achievement state for PANTHEON2
+
+Failed to retrieve achievement state for PANTHEON3
+
+Failed to retrieve achievement state for PANTHEON4
+
+Failed to retrieve achievement state for ENDINGD
+
+Failed to retrieve achievement state for COMPLETIONGG
+
+pd.maxHealth: 5 pd.maxHealthBase: 5
+
+
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 46164.
+Total: 100.646200 ms (FindLiveObjects: 1.940200 ms CreateObjectMapping: 1.309700 ms MarkObjects: 97.161000 ms  DeleteObjects: 0.234900 ms)
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Making UI menu lean.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 186 unused Assets to reduce memory usage. Loaded Objects now: 46562.
+Total: 119.240700 ms (FindLiveObjects: 2.072700 ms CreateObjectMapping: 1.217100 ms MarkObjects: 114.909400 ms  DeleteObjects: 1.039500 ms)
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Subscribing to controller detection.
+
+Unsubscribing from controller detection.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.950400 ms
+Deferring level start (marked as manual).
+
+
+Unloading 356 unused Assets to reduce memory usage. Loaded Objects now: 52891.
+Total: 143.673000 ms (FindLiveObjects: 2.286900 ms CreateObjectMapping: 1.367700 ms MarkObjects: 139.030100 ms  DeleteObjects: 0.987800 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.240000 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Failed to retrieve achievement state for ENDING_A
+
+Failed to retrieve achievement state for ENDING_B
+
+Failed to retrieve achievement state for ENDING_C
+
+Failed to retrieve achievement state for STEELSOUL
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+Failed to retrieve achievement state for PROTECTED
+
+Failed to retrieve achievement state for MASKED
+
+Failed to retrieve achievement state for ENCHANTED
+
+Failed to retrieve achievement state for BLESSED
+
+Failed to retrieve achievement state for SOULFUL
+
+Failed to retrieve achievement state for WORLDSOUL
+
+Failed to retrieve achievement state for DREAM_FK
+
+Failed to retrieve achievement state for HORNET_2
+
+Failed to retrieve achievement state for SOUL_MASTER_DEFEAT
+
+Failed to retrieve achievement state for DREAM_SOUL_MASTER_DEFEAT
+
+Failed to retrieve achievement state for BROKEN_VESSEL
+
+Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
+
+Failed to retrieve achievement state for DUNG_DEFENDER
+
+Failed to retrieve achievement state for MANTIS_LORDS
+
+Failed to retrieve achievement state for COLLECTOR
+
+Failed to retrieve achievement state for ZOTE
+
+Failed to retrieve achievement state for NEGLECT
+
+Failed to retrieve achievement state for ATTUNEMENT
+
+Failed to retrieve achievement state for AWAKENING
+
+Failed to retrieve achievement state for ASCENSION
+
+Failed to retrieve achievement state for GRUBFRIEND
+
+Failed to retrieve achievement state for METAMORPHOSIS
+
+Failed to retrieve achievement state for NAILSMITH_KILL
+
+Failed to retrieve achievement state for NAILSMITH_SPARE
+
+Failed to retrieve achievement state for QUIRREL_EPILOGUE
+
+Failed to retrieve achievement state for MOURNER
+
+Failed to retrieve achievement state for TRAITOR_LORD
+
+Failed to retrieve achievement state for STAG_STATION_HALF
+
+Failed to retrieve achievement state for STAG_STATION_ALL
+
+Failed to retrieve achievement state for TEACHER
+
+Failed to retrieve achievement state for WATCHER
+
+Failed to retrieve achievement state for BEAST
+
+Failed to retrieve achievement state for MAP
+
+Failed to retrieve achievement state for COLOSSEUM_1
+
+Failed to retrieve achievement state for COLOSSEUM_2
+
+Failed to retrieve achievement state for COLOSSEUM_3
+
+Failed to retrieve achievement state for ENDING_A
+
+Failed to retrieve achievement state for ENDING_B
+
+Failed to retrieve achievement state for ENDING_C
+
+Failed to retrieve achievement state for VOID
+
+Failed to retrieve achievement state for SPEEDRUN_1
+
+Failed to retrieve achievement state for SPEEDRUN_2
+
+Failed to retrieve achievement state for COMPLETION
+
+Failed to retrieve achievement state for SPEED_COMPLETION
+
+Failed to retrieve achievement state for STEELSOUL
+
+Failed to retrieve achievement state for STEELSOUL_COMPLETION
+
+Failed to retrieve achievement state for HUNTER_1
+
+Failed to retrieve achievement state for HUNTER_2
+
+Failed to retrieve achievement state for MR_MUSHROOM
+
+Failed to retrieve achievement state for WHITE_DEFENDER
+
+Failed to retrieve achievement state for GREY_PRINCE
+
+Failed to retrieve achievement state for GRIMM
+
+Failed to retrieve achievement state for NIGHTMARE_GRIMM
+
+Failed to retrieve achievement state for BANISHMENT
+
+Failed to retrieve achievement state for PANTHEON1
+
+Failed to retrieve achievement state for PANTHEON2
+
+Failed to retrieve achievement state for PANTHEON3
+
+Failed to retrieve achievement state for PANTHEON4
+
+Failed to retrieve achievement state for ENDINGD
+
+Failed to retrieve achievement state for COMPLETIONGG
+
+pd.maxHealth: 5 pd.maxHealthBase: 5
+
+
+Unloading 394 unused Assets to reduce memory usage. Loaded Objects now: 47503.
+Total: 121.424000 ms (FindLiveObjects: 2.220500 ms CreateObjectMapping: 1.243100 ms MarkObjects: 116.852200 ms  DeleteObjects: 1.106700 ms)
+
+Setting up 10 worker threads for Enlighten.
+  Thread -> id: ce08 -> priority: 1 
+  Thread -> id: 7c54 -> priority: 1 
+  Thread -> id: 6410 -> priority: 1 
+  Thread -> id: bd80 -> priority: 1 
+  Thread -> id: bf68 -> priority: 1 
+  Thread -> id: 93b0 -> priority: 1 
+  Thread -> id: 6864 -> priority: 1 
+  Thread -> id: a66c -> priority: 1 
+  Thread -> id: c4c8 -> priority: 1 
+  Thread -> id: 5648 -> priority: 1 
+Shutting down Steam API.
+
